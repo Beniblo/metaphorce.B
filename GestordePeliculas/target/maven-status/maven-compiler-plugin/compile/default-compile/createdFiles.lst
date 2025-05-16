@@ -1,0 +1,4 @@
+com\methaporec\modelo\Pelicula.class
+com\methaporec\vista\GestordePeliculas.class
+com\methaporec\controlador\ControladorPeliculas.class
+com\methaporec\modelo\GestorPelicula.class
